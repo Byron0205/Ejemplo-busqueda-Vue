@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "detalle": "2000 Chevrolet Malibu LS",
+    "autor": "Juan Perez",
+    "nombre": "Venta de carro",
+    "fecha": "01/02/23",
+    "precio": 3400
+  },
+  {
+    "id": 2,
+    "detalle": "MSI GX780-011US",
+    "autor": "Marcelo Gomez",
+    "nombre": "Venta de laptop",
+    "fecha": "01/02/23",
+    "precio": 1300
+  },
+  {
+    "id": 3,
+    "detalle": "Logitech G603",
+    "autor": "Marcelo Gomez",
+    "nombre": "Venta de Mouse",
+    "fecha": "01/02/23",
+    "precio": 80
+  },
+  {
+    "id": 4,
+    "detalle": "Redragon 144hz",
+    "autor": "Maria Araya",
+    "nombre": "Venta de Monitor",
+    "fecha": "01/02/23",
+    "precio": 390
+  },
+  {
+    "id": 5,
+    "detalle": "Telefono Samsung S20",
+    "autor": "Marcos Navarro",
+    "nombre": "Venta de telefono",
+    "fecha": "2023-05-22",
+    "precio": 200
+  },
+  {
+    "id": 6,
+    "detalle": "Semi nueva, en venta por falta de uso",
+    "autor": "Julia de la Torre",
+    "nombre": "Venta de Laptop",
+    "fecha": "2023-05-19",
+    "precio": 380
+  },
+  {
+    "id": 7,
+    "detalle": "Huawei Nova",
+    "autor": "Marcos Navarro",
+    "nombre": "Venta de telefono",
+    "fecha": "2023-05-21",
+    "precio": 240
+  },
+  {
+    "id": 8,
+    "detalle": "Lavadora semi nueva",
+    "autor": "Ana Solis",
+    "nombre": "Venta de Lavadora",
+    "fecha": "2023-05-22",
+    "precio": 120
+  },
+  {
+    "id": 9,
+    "detalle": "Ocupo un camión del año 2000",
+    "autor": "Juan Perez",
+    "nombre": "Compro camión",
+    "fecha": "01/02/23",
+    "precio": 4000
+  },
+  {
+    "id": 10,
+    "detalle": "RCA se vende por falta de uso",
+    "autor": "Isaac Perez",
+    "nombre": "Venta de pantalla",
+    "fecha": "24/10/23",
+    "precio": 250
+  },
+  {
+    "id": 11,
+    "detalle": "semi-nuevo de 4 puertas",
+    "autor": "Jaime Rosales",
+    "nombre": "Venta de automovil",
+    "fecha": "2023-05-22",
+    "precio": 500
+  },
+  {
+    "id": 12,
+    "detalle": "Se vende por falta de uso",
+    "autor": "Kendall Madrigal",
+    "nombre": "Venta de moto",
+    "fecha": "2023-05-31",
+    "precio": 1000
+  },
+  {
+    "id": 15,
+    "detalle": "fdasjgfa",
+    "autor": "Jaime Rosales",
+    "nombre": "Venta de telefono",
+    "fecha": "2023-05-25",
+    "precio": 100
+  }
+]
